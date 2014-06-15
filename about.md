@@ -1,7 +1,12 @@
 ---
 layout: page
-title: About
+title: 个人简介
 ---
+
+一名刚好碰上移动互联网发展时期糊里糊涂走进去的小渣渣,尘世中的迷途小羔羊,不懂高深技术，只是纯粹的热爱。
+
+
+<!--
 
 <p class="message">
   Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
@@ -28,3 +33,5 @@ Some fun facts about the setup of this project include:
 Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
 
 Thanks for reading!
+
+-->
