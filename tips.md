@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Tips
+title: 实用技巧
 ---
 
 
