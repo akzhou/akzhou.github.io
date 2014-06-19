@@ -3,8 +3,6 @@ layout: page
 title: Tips
 ---
 
-
-
 ###iOS模拟各种网络连接场景
 
 
@@ -21,5 +19,3 @@ title: Tips
 1. ![image](http://akzhou.github.io/images/D4C93292-3D64-4483-B60E-5697D0C62EB1.png)
 2. ![image](http://akzhou.github.io/images/D4C93292-3D64-4483-B60E-5697D0C62EB2.png)
 3. ![image](http://akzhou.github.io/images/D4C93292-3D64-4483-B60E-5697D0C62EB3.png)
-
-
