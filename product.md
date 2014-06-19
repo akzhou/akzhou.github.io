@@ -3,11 +3,11 @@ layout: page
 title: 推荐产品
 ---
 
-正逢世界杯，推荐一下这款app，可以订阅各类体育新闻资讯，非常适合爱运动的您！
+###正逢世界杯，推荐一下这款app，可以订阅各类体育新闻资讯，非常适合爱运动的您！
 
 [体育刷子](http://shua.duowan.com/)
 
-![image](http://akzhou.github.io/images/sportbrush_Icon@2x.png)
+![image](http://akzhou.github.io/products/sportbrush_Icon@2x.png)
 
 
 	体育刷子怎么刷都有。
