@@ -6,16 +6,7 @@
 <div class="sidebar" id="sidebar">
   <div class="sidebar-item">
   	 <p>{{ site.description }}</p>
-  	 {% for node in pages_list %}
-      {% if node.title != null %}
-        {% if node.layout == "page" %}
-        	{% if node.index == 3 %}
-        		<a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">QQ:{{ site.qq }}</a>	
-        	{% endif %}	
-        {% endif %}
-      {% endif %}
-    {% endfor %}
-<!--   	 <p>qq:{{ site.qq }}</p> -->
+  	 <p>QQ:{{ site.qq }}</p>
   </div>
 
   <nav class="sidebar-nav">
@@ -40,6 +31,15 @@
       {% if node.title != null %}
         {% if node.layout == "page" %}
         	{% if node.index == 2 %}
+        		<a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a>	
+        	{% endif %}	
+        {% endif %}
+      {% endif %}
+    {% endfor %}
+    {% for node in pages_list %}
+      {% if node.title != null %}
+        {% if node.layout == "page" %}
+        	{% if node.index == 3 %}
         		<a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a>	
         	{% endif %}	
         {% endif %}
