@@ -3,10 +3,11 @@ layout: page
 title: 个人作品
 ---
 
-###[体育刷子](https://itunes.apple.com/cn/app/ti-yu-shua-zi/id888221792?mt=8)
 
-1. ![image](http://akzhou.github.io/products/sportbrush_Icon@2x.png)
-			
+###[体育刷子](http://shua.duowan.com/)
+
+![image](http://akzhou.github.io/products/sportbrush_Icon@2x.png)
+		
 		体育刷子怎么刷都有。
 		体育刷子是一款个性化智能阅读体育资讯APP，通过你的阅读偏好，猜测你的体育爱好，向你推荐可能感兴趣的文章。它整合了新浪、网易、腾讯、凤凰网等各大体育门户的全频道资讯，用户可以根据自己的体育偏好，定制属于自己的体育资讯APP。
 		
