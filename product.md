@@ -1,4 +1,5 @@
 ---
+index:	2
 layout: page
 title: 推荐产品
 ---

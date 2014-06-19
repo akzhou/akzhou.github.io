@@ -1,4 +1,5 @@
 ---
+index:	3
 layout: page
 title: 个人简介
 ---
