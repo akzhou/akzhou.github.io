@@ -1,4 +1,5 @@
 ---
+index: 	1
 layout: page
 title: 实用技巧
 ---
